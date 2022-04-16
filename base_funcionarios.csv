@@ -1,0 +1,10 @@
+﻿employee,team matrix,location,years education,major,age,start date,annual salary,bonus payout percentage,performance level
+"Smith,  James",D52 - eng,New York,12,Computer Science,32,3/24/18,98324,4,NI
+"jones, robert",D17 - sales,CA,16,Business,28,2-Apr-20,45467,10,S
+"Andrews, Emily",D24 - sales,California,18,Another Engineering,46,3-Jan-18,113384,12,E
+" BROWN, THOMAS",D22-sales,NY,16,Social Science,35,7/4/16,,8,S
+"McGinn,  susan",D55 - exec,California,16,Business,48,5/6/08,356738,6,NI
+"Jones, Robert",D17 - sales,Calif.,18,Humanities,29,3-Sep-20,45467,4,
+"EPARD, RENE",D12 - Ops,New York,16,Computer Science,38,5/4/20,147098,12,E
+"Reddy, Arjun",D51 - eng,CA,16,Another Engineering,34,10-Oct-06,168232,10,S
+"Von  der Bakker, Jan",D52-eng,Amsterdam,18,Computer Science,42,8/2/12,134000,10,E
